@@ -1,2 +1,3 @@
 # goit_3
-tast1: task1.ipynb
+Week1: task1.ipynb
+Week2: Hw2.1.ipynb
