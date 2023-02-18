@@ -20,3 +20,7 @@ Week3:\
 &emsp; &emsp;  &emsp; Hw2.1.ipynb \
 &emsp; &emsp;  &emsp; Hw2.2.ipynb \
 &emsp; &emsp; &emsp; Hw2.3.ipynb \
+&emsp; task2: \
+&emsp; &emsp;  &emsp; Sierpinski_triangle.ipynb \
+&emsp; task3: \
+&emsp; &emsp;  &emsp; stock_profitability.ipynb
