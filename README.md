@@ -1,4 +1,12 @@
 # goit_3
+```
+pipenv isntall
+```
+```
+pipenv run jupyter notebook
+````
+
+
 Week1: \
 &emsp; task1.ipynb\
   \
