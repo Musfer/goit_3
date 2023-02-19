@@ -7,7 +7,7 @@ pipenv run jupyter notebook
 ````
 
 
-Week1: \
+**Week1**: \
 &emsp; task1.ipynb\
   \
 Week2: \
