@@ -38,4 +38,9 @@ pipenv run jupyter notebook
 &emsp; task1: \
 &emsp; &emsp;  &emsp; Hw5.1.ipynb \
 &emsp; task2: \
-&emsp; &emsp;  &emsp; Hw5.2.ipynb 
+&emsp; &emsp;  &emsp; Hw5.2.ipynb \
+\
+**Week1**: \
+&emsp; Hw6.1.ipynb\
+  \
+
