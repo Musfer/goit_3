@@ -43,6 +43,7 @@ pipenv run jupyter notebook
 **Week6**: \
 &emsp; Hw6.1.ipynb\
 \
+**Week7**: \
 &emsp; task1: \
 &emsp; &emsp;  &emsp; Hw7.1.ipynb \
 &emsp; task2: \
