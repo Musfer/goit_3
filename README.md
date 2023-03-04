@@ -49,4 +49,7 @@ pipenv run jupyter notebook
 &emsp; task2: \
 &emsp; &emsp;  &emsp; Hw7.2.ipynb \
 &emsp; task3: \
-&emsp; &emsp;  &emsp; Hw7.3.ipynb 
+&emsp; &emsp;  &emsp; Hw7.3.ipynb \
+\
+**Week8**: \
+&emsp; OverfittingHomeWork.ipynb
