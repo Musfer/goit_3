@@ -58,4 +58,4 @@ pipenv run jupyter notebook
 &emsp; tensorflow_mnist_hw.ipynb \
 \
 **Week11**: \
-&emsp; fashion_mnist.ipynb 
+&emsp; fashion_mnist_CNN.ipynb 
