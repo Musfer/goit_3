@@ -55,4 +55,7 @@ pipenv run jupyter notebook
 &emsp; OverfittingHomeWork.ipynb \
 \
 **Week9**: \
-&emsp; tensorflow_mnist_hw.ipynb
+&emsp; tensorflow_mnist_hw.ipynb \
+\
+**Week11**: \
+&emsp; fashion_mnist.ipynb 
